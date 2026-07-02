@@ -1,0 +1,91 @@
+# סטודיו עדן ישראלי — Generative Engine Optimization Map
+
+> An architecture, planning, and design studio offering professional services in architectural design and spatial planning. The studio likely works with clients on residential, commercial, or interior design projects, combining technical expertise with creative vision.
+
+---
+
+## Pages
+
+### בית
+https://-276d2a31.zappy5.app
+סטודיו עדן ישראלי מציע שירותי אדריכלות ועיצוב פנים בהתאמה אישית למגורים, מסחר וחללים ייחודיים. הפיכת רעיונות לחללים מעוררי השראה עם תכנון מדויק ויצירתיות. צרו קשר לפגישת ייעוץ ראשונית!
+
+### שירותים
+https://-276d2a31.zappy5.app/services
+גלו את מגוון שירותי האדריכלות והתכנון המרחבי שלנו, מתכנון קונספט ועד לפרטים הקטנים. אנו משלבים מומחיות טכנית עם ai design architecture ליצירת פרויקטים חדשניים. התחילו לתכנן את החלום שלכם עוד היום!
+
+### תיק עבודות
+https://-276d2a31.zappy5.app/portfolio
+הצצה לפרויקטים נבחרים של אדריכלות ועיצוב פנים מבית סטודיו עדן ישראלי. כל פרויקט משקף את התשוקה שלנו ל sustainable design architecture ולדיוק אסתטי. קבלו השראה לעיצוב הבא שלכם עכשיו!
+
+### אודות
+https://-276d2a31.zappy5.app/about
+סטודיו עדן ישראלי הוא בית לאדריכלות ועיצוב המשלב חזון יצירתי עם ניסיון עשיר. אנו מאמינים ב inc architecture &amp; design כבסיס לכל פרויקט יוצא דופן. בואו להכיר את הצוות והפילוסופיה שמניעה אותנו!
+
+### צור קשר
+https://-276d2a31.zappy5.app/contact
+מוכנים להתחיל פרויקט אדריכלות ועיצוב ייחודי? צרו קשר עם סטודיו עדן ישראלי לייעוץ מקצועי, תכנון מותאם אישית ו ai design architecture מתקדם. מלאו את הפרטים ונחזור אליכם בהקדם!
+
+### תודה רבה | סטודיו עדן ישראלי
+https://-276d2a31.zappy5.app/thank-you
+תודה שפנית לסטודיו עדן ישראלי - Architecture & Design. פנייתך התקבלה בהצלחה ונחזור אליך בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-276d2a31.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-276d2a31.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-276d2a31.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-276d2a31.zappy5.app/contact
+- Endpoint: https://-276d2a31.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About סטודיו עדן ישראלי
+An architecture, planning, and design studio offering professional services in architectural design and spatial planning. The studio likely works with clients on residential, commercial, or interior design projects, combining technical expertise with creative vision.
+
+## Services/Products
+- אדריכלות
+- תכנון
+- עיצוב
+
+## Target Audience
+- בעלי בתים בעלי הכנסה גבוהה
+- משקיעי נדל"ן מסחרי
+- יזמים של דירות יוקרה
+
+## Industry
+Architecture & Design
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-276d2a31.zappy5.app/sitemap.xml
+- Robots: https://-276d2a31.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-276d2a31.zappy5.app/llms-full.txt
