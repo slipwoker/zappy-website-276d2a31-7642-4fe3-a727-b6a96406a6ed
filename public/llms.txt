@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://-276d2a31.zappy5.app
+https://example.com
 סטודיו עדן ישראלי מציע שירותי אדריכלות ועיצוב פנים בהתאמה אישית למגורים, מסחר וחללים ייחודיים. הפיכת רעיונות לחללים מעוררי השראה עם תכנון מדויק ויצירתיות. צרו קשר לפגישת ייעוץ ראשונית!
 
 ### שירותים
-https://-276d2a31.zappy5.app/services
+https://example.com/services
 גלו את מגוון שירותי האדריכלות והתכנון המרחבי שלנו, מתכנון קונספט ועד לפרטים הקטנים. אנו משלבים מומחיות טכנית עם ai design architecture ליצירת פרויקטים חדשניים. התחילו לתכנן את החלום שלכם עוד היום!
 
 ### תיק עבודות
-https://-276d2a31.zappy5.app/portfolio
+https://example.com/portfolio
 הצצה לפרויקטים נבחרים של אדריכלות ועיצוב פנים מבית סטודיו עדן ישראלי. כל פרויקט משקף את התשוקה שלנו ל sustainable design architecture ולדיוק אסתטי. קבלו השראה לעיצוב הבא שלכם עכשיו!
 
 ### אודות
-https://-276d2a31.zappy5.app/about
+https://example.com/about
 סטודיו עדן ישראלי הוא בית לאדריכלות ועיצוב המשלב חזון יצירתי עם ניסיון עשיר. אנו מאמינים ב inc architecture &amp; design כבסיס לכל פרויקט יוצא דופן. בואו להכיר את הצוות והפילוסופיה שמניעה אותנו!
 
 ### צור קשר
-https://-276d2a31.zappy5.app/contact
+https://example.com/contact
 מוכנים להתחיל פרויקט אדריכלות ועיצוב ייחודי? צרו קשר עם סטודיו עדן ישראלי לייעוץ מקצועי, תכנון מותאם אישית ו ai design architecture מתקדם. מלאו את הפרטים ונחזור אליכם בהקדם!
 
 ### תודה רבה | סטודיו עדן ישראלי
-https://-276d2a31.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית לסטודיו עדן ישראלי - Architecture & Design. פנייתך התקבלה בהצלחה ונחזור אליך בהקדם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-276d2a31.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-276d2a31.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-276d2a31.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-276d2a31.zappy5.app/contact
-- Endpoint: https://-276d2a31.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -86,6 +86,6 @@ Architecture & Design
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-276d2a31.zappy5.app/sitemap.xml
-- Robots: https://-276d2a31.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-276d2a31.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
